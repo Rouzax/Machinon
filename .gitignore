@@ -7,3 +7,5 @@ machinon-*.tar.gz
 !makerelease.sh
 # JPEG images
 images/*.[jJ][pP][gG]
+# Claude Code project instructions (local only)
+CLAUDE.md
